@@ -1,8 +1,5 @@
 # Docker files
-**/Dockerfile
-**/docker-compose.yml
-**/docker-compose.override.yml
-**/Dockerfile.* 
+
 
 # Node modules (if applicable)
 node_modules/
