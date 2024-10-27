@@ -1,0 +1,43 @@
+# Docker files
+**/Dockerfile
+**/docker-compose.yml
+**/docker-compose.override.yml
+**/Dockerfile.* 
+
+# Node modules (if applicable)
+node_modules/
+
+# Python virtual environments (if applicable)
+venv/
+env/
+__pycache__/
+
+# Log files
+*.log
+
+# Build artifacts
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# AWS credentials
+*.env
+*.json
+
+# OS generated files
+*.swp
+*.swo
